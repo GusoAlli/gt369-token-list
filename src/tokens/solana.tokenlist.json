@@ -1,0 +1,28 @@
+{
+  "name": "GT369 Token List",
+  "logoURI": "https://raw.githubusercontent.com/GusoAlli/gt369-token-list/main/assets/mainnet/84ka1LBANzVYQFD7jhxZrsyBZjVv3qbrMaRLUKYhL6Vu/logo.png",
+  "tags": {
+    "utility-token": {
+      "name": "Utility Token",
+      "description": "Tokens with utility function"
+    }
+  },
+  "timestamp": "2025-06-19T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "84ka1LBANzVYQFD7jhxZrsyBZjVv3qbrMaRLUKYhL6Vu",
+      "symbol": "GT369",
+      "name": "Ghost Tech 369",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/GusoAlli/gt369-token-list/main/assets/mainnet/84ka1LBANzVYQFD7jhxZrsyBZjVv3qbrMaRLUKYhL6Vu/logo.png",
+      "tags": ["utility-token"],
+      "extensions": {
+        "website": "https://x.com/GhostTech369",
+        "description": "🚫Rug. $GT369 is born. Ghost Tech. 3.69M supply. Stay stealth.",
+        "twitter": "https://twitter.com/GhostTech369"
+      }
+    }
+  ]
+}
+
